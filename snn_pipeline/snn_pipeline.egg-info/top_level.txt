@@ -1,2 +1,0 @@
-snn_pipeline
-spike_cuda
